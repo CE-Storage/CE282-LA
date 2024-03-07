@@ -55,6 +55,7 @@ We appreciate your contributions and look forward to your valuable input!
 ## Maintainer
 
 Information about the maintainer(s) of the repository, with contact details.
+- [Moeein Aali](https://github.com/moeeinaali)
 
 ## License
 
