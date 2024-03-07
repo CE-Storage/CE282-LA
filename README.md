@@ -1,6 +1,6 @@
-# CE{code}-{abbreviation}: {course name} Course Repository
+# CE40282-LA: Linear Algebra Course Repository
 
-Welcome to the repository for {course name} course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
+Welcome to the repository for Linear Algebra course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
 
 ## Table of Contents
 
